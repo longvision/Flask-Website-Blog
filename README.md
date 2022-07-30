@@ -75,4 +75,4 @@ This project is a blog website developed using python, flask, html, css, and oth
 
 ## PDF Explanation:
 
-- [PDF Explanation](https://github.com/longvision/Flask-Website-Blog/blob/main/cs531_week9_flask_website_blog_project_horiguchi_ricardo_19618.pdf)
+- [PDF Explanation](https://github.com/longvision/Flask-Website-Blog/blob/project/cs531_week9_flask_website_blog_project_horiguchi_ricardo_19618.pdf)
